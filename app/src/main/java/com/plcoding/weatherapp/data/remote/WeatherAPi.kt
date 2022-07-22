@@ -11,4 +11,6 @@ interface WeatherAPi {
         @Query("longitude") long: Double
     ) : WeatherDTO
 
+
+
 }
